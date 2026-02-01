@@ -19,5 +19,5 @@ This repository contains my custom Vim configuration — plugins, settings, mapp
 ### Clone the repo
 
 ```sh
-git clone https://github.com/<your-username>/mirovim.git ~/.vim
+git clone https://github.com/ramirojgurdian/mirovim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
