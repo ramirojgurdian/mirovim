@@ -1,4 +1,4 @@
-# mirovim
+# Mirovim
 
 Personal Vim configuration files and setup.
 
