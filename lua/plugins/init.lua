@@ -15,5 +15,6 @@ require('lazy').setup({
   require('plugins.autopairs'),
   require('plugins.gitsigns'),
   require('plugins.lualine'),
-  require('plugins.render-markdown')
+  require('plugins.render-markdown'),
+  require('plugins.roslyn')
 })
